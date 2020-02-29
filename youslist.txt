@@ -6130,6 +6130,48 @@ zum.com##div#adx_zum_main_leftwing
 zum.com##div#adx_zum_main_rightwing
 zum.com##div#wrap_ad_main
 zum.com##div#wrap_ad_minisite
+etoland.co.kr/data/daumeditor02/200227/64134115827885730.jpg
+etoland.co.kr/data/daumeditor02/200224/23922215825303980.jpg
+etoland.co.kr/data/daumeditor02/200225/61163915826147800.jpg
+etoland.co.kr/data/daumeditor02/200226/50476315826999042.jpg
+etoland.co.kr/data/daumeditor02/200227/66027915827884711.jpg
+etoland.co.kr/data/daumeditor02/200226/17188915827085640.jpg
+etoland.co.kr/data/daumeditor02/200226/50476315826999043.jpg
+etoland.co.kr/etoad/bunja_160600.php
+etoland.co.kr/data/daumeditor02/191219/21147015767472033.jpg
+li[style="float:left;width:1871px;"]
+<ulstyle="width:7484px;left:-5613px;position:relative;overflow:hidden;padding:0px;margin:0px;">
+etoland.co.kr/data/daumeditor02/200204/44901615807851950.jpg
+etoland.co.kr/data/daumeditor02/200103/42032215780165653.jpg
+jmvbt.com/img/91/*.gif
+jmvbt.com/img/hgame/*.jpg
+jmvbt.com/img/hgame/qt_1280x400.gif
+etoland.co.kr/data/daumeditor02/200225/21168615826219270.jpg
+<divclass="bd"><divclass="tempWrap"style="overflow:hidden;position:relative;width:1871px">
+<divclass="bd">
+/js/ad_js/slade_190602.js
+jmvbt.com/img/hgame/*.gif
+etoland.co.kr##div[style="clear:both;margin-top:10px;padding:10px 0 10px 0;width:100%;text-align:center;"]
+etoland.co.kr##.link_info_wrap
+etoland.co.kr##div[style="clear:both;margin-top:10px;padding:0px 0 10px 0;width:100%;text-align:center;"]
+manamoa.net##.ad-banner-widget.main-banner
+manamoa.net##.ad-banner-widget
+jmvbt.com##li[style="float: left; width: 1871px;"]
+jmvbt.com##.bd
+jmvbt.com##.ADTOPLB_339
+jmvbt.com##.ADTOPLB_937
+jmvbt.com##.ADTOPLB_549
+jmvbt.com###Provision_box
+jmvbt.com##.ADTOPLB_715
+jmvbt.com##.ADTOPLB_958
+jmvbt.com##.ADTOPLB_594
+jmvbt.com##CENTER
+jmvbt.com###Preview_vedio_area
+jmvbt.com##LI\[style="float: left; width: 1871px;"]
+jmvbt.com##A\[href="http://103.55.129.194/uuzy02.html"]
+jmvbt.com##li
+etoland.co.kr##div[style="height:600px;"]
+etoland.co.kr##.link_area
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
