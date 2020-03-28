@@ -6234,6 +6234,27 @@ zum.com##div#adx_zum_main_leftwing
 zum.com##div#adx_zum_main_rightwing
 zum.com##div#wrap_ad_main
 zum.com##div#wrap_ad_minisite
+nate.com###mall1Box
+nate.com##.shopmall
+nate.com###shopitemMall
+nate.com##.mall1shop
+nate.com##.area_shopping_today
+jmvbt.com###Provision_box
+etoland.co.kr##div[style="clear:both;margin-top:10px;padding:10px 0 10px 0;width:100%;text-align:center;"]
+manamoa.net##.ad-banner-widget.main-banner
+manamoa.net##.ad-banner-widget.fit-banner
+manamoa.net##.widget-side
+etoland.co.kr##.link_text
+etoland.co.kr##div[style="clear:both;margin-top:10px;padding:0px 0 10px 0;width:100%;text-align:center;"]
+||castbox.shopping.naver.com/shopbox/main.nhn?
+||castbox.shopping.naver.com/shopbox/main.nhn
+||jmvbt.com/img/91/91hcomic_1280_400.gif
+||jmvbt.com/img/hgame/qt_1280x400.gif
+||<imgsrc="https://jmvbt.com/img/hgame/qt_1280x400.gif"width="1230px">
+||jmvbt.com/img/91/
+||jmvbt.com/img/hgame/
+||etoland.co.kr/img/eto2.gif
+||etoland.co.kr/data/daumeditor02/200324/97913015850318231.jpg
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
