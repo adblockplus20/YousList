@@ -7267,3 +7267,499 @@ zum.com##div#wrap_ad_minisite
 @@||ad.smartmediarep.com/NetInsight/$domain=allvod.sbs.co.kr|news.sbs.co.kr|programs.sbs.co.kr|wavve.com
 @@||ads.sportsseoul.com/RealMedia/ads/adstream_sx.ads/www.sportsseoul.com/main@Bottom^$domain=sportsseoul.com
 @@||vads-api.ad.daum.net/xylophone/adrequest/vmap/
+
+! 2020. 3. 29. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor02/200324/80789115850371270.jpg$image
+||www.etoland.co.kr/data/daumeditor02/200326/67095015851991451.jpg$image
+||www.etoland.co.kr/data/daumeditor02/200320/96141815846913130.jpg$image
+www.etoland.co.kr##.right > div:nth-of-type(4)
+||www.etoland.co.kr/data/daumeditor02/200319/30731115846129290.jpg$image
+www.etoland.co.kr##.right > div:nth-of-type(6)
+www.etoland.co.kr##.link_area
+www.etoland.co.kr###mw_basic > form:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td
+www.etoland.co.kr##.link_info_wrap
+www.etoland.co.kr###text_banner_td
+www.etoland.co.kr##.reft_hit_banner > div:nth-of-type(1)
+
+! 2020. 3. 29. https://manamoa.net
+||i.imgur.com/2rmXmpi.gif$image
+||manamoa.net/img/banner/ma/ma.gif$image
+manamoa.net##.banner01.widget-box
+||img.ironmancdn.xyz/upload/9eae72045afdc5e3fe0637250f5e2001.png$image
+||manamoa.net/img/banner/sol/side.gif$image
+manamoa.net##div.widget-box:nth-of-type(12)
+manamoa.net##div.widget-box:nth-of-type(11)
+manamoa.net##div.widget-box:nth-of-type(13)
+manamoa.net##div.widget-box:nth-of-type(14)
+manamoa.net##div.widget-box:nth-of-type(15)
+||manamoa.net/img/banner/sol/side.gif$image
+manamoa.net##div.widget-box:nth-of-type(16)
+manamoa.net##.view-wrap.viewer-container > div.widget-box:nth-of-type(4)
+manamoa.net##.view-wrap.viewer-container > div.widget-box:nth-of-type(6)
+
+! 2020. 3. 29. https://torrenthall11.com
+||torrenthall11.com/uploads/banner/2020/03/2f58c57c44757e5376f30f1c833df4ce.gif$image
+torrenthall11.com##.at-main.at-col.col-md-9 > .at-banner.row-10.row > .clearfix
+torrenthall11.com##.at-main.at-col.col-md-9 > .at-banner.row-10.row
+torrenthall11.com##.at-side.at-col.col-md-3 > .at-banner.row-10.row > .col-10.col-xs-12
+
+! 2020. 3. 29. https://torrentmax.net
+||torrentmax.net/seda.gif$image
+||torrentmax.net/wait.png$image
+torrentmax.net##.container-top-content
+||torrentmax.net/seda.gif$image
+torrentmax.net##.view-wrap > .container-line-main-m
+torrentmax.net##.at-main.at-col.col-md-9 > .container-line-main-m
+
+! 2020. 3. 29. https://jmvbt.com
+jmvbt.com##p:nth-of-type(2)
+
+! 2020. 3. 29. https://avnori.com
+avnori.com##.padding-bottom-10.main-banner.row-75.row
+avnori.com##.col-md-85.basic-body-main > p
+||res.cloudinary.com/dzikhxvmh/image/upload/v1577353436/191221_K-Ball_Gif_%EB%8C%80%ED%98%95_720x140_nrrnky.gif$image
+||res.cloudinary.com/dzikhxvmh/image/upload/v1577354710/Kball_Sml_lgw0pw.gif$image
+||res.cloudinary.com/dyxnqiuw0/image/upload/v1552298623/e7CoFoP.gif$image
+||res.cloudinary.com/dksgjy3j6/image/upload/v1574317646/kCmw9th_cvv7fy.gif$image
+||imgur.com/BNie7CU.gif$image
+avnori.com##.side-banner.row-75.row
+
+! 2020. 3. 29. https://ddaltime24.com
+||ddaltime24.com/img/2020/mp375.gif$image
+||ddaltime24.com/img/2020/hobet375.gif$image
+||ddaltime24.com/img/2020/tm375.gif$image
+||ddaltime24.com/img/2020/bg375.gif$image
+||ddaltime24.com/img/2020/nh375.gif$image
+ddaltime24.com##div.exon2.col-sm-3.col-xs-6:nth-of-type(6)
+ddaltime24.com##div.exon2.col-sm-3.col-xs-6:nth-of-type(3)
+ddaltime24.com###thema_wrapper > div.clearfix:nth-of-type(3)
+ddaltime24.com##.at-title
+
+! 2020. 3. 29. https://torrentsee21.com
+||torrentsee21.com/uploadfile/up5e71b251861fd5709.gif$image
+||torrentsee21.com/uploadfile/up5e4a33882e0282563.gif$image
+||torrentsee21.com/uploadfile/up5e4a250da57c5832.gif$image
+||torrentsee21.com/uploadfile/up5e4a2588f359d4669.gif$image
+||torrentsee21.com/uploadfile/up5e4a25d6b2d568898.gif$image
+||torrentsee21.com/uploadfile/up5e4f74043c4196492.gif$image
+torrentsee21.com##div.mb15.nplr.col-md-6:nth-of-type(1)
+torrentsee21.com##div.row.mmnewlist:nth-of-type(5)
+||torrentsee21.com/uploadfile/up5e4b3c34b06021334.gif$image
+||torrentsee21.com/uploadfile/up5e4b3bc5de67d583.jpg$image
+||torrentsee21.com/uploadfile/up5e4b3bd64661c6354.jpg$image
+||torrentsee21.com/uploadfile/up5e4b3be63eda63148.jpg$image
+||torrentsee21.com/uploadfile/up5e4b3bf445c135430.jpg$image
+torrentsee21.com##div.mb15.nplr.col-md-6:nth-of-type(6) > .box_right.notice_box
+||torrentsee21.com/uploadfile/up5e4a250da57c5832.gif$image
+||torrentsee21.com/uploadfile/up5e4a2588f359d4669.gif$image
+||torrentsee21.com/uploadfile/up5e4a25d6b2d568898.gif$image
+||torrentsee21.com/uploadfile/up5e4f74043c4196492.gif$image
+||torrentsee21.com/uploadfile/up5e71b251861fd5709.gif$image
+||torrentsee21.com/uploadfile/up5e4a33882e0282563.gif$image
+torrentsee21.com##div.mb15.nplr.col-md-6:nth-of-type(2)
+torrentsee21.com##div.mb15.nplr.col-md-6:nth-of-type(3)
+torrentsee21.com##div.mb15.nplr.col-md-6:nth-of-type(4)
+torrentsee21.com##div.mb15.nplr.col-md-6:nth-of-type(5)
+torrentsee21.com##.mmbannel
+||torrentsee21.com/uploadfile/up5e4a33882e0282563.gif$image
+||torrentsee21.com/uploadfile/up5e71b251861fd5709.gif$image
+
+! 2020. 3. 30. https://www.naver.com
+||castbox.shopping.naver.com/shopbox/main.nhn?$subdocument
+www.naver.com###shp_cst
+
+! 2020. 3. 30. http://www.etoland.co.kr
+www.etoland.co.kr##tr:nth-of-type(8)
+
+! 2020. 3. 30. https://www.daum.net
+www.daum.net##.advert_shoppingbox
+||shop-redapi.daum.net/red-apigate/daumtop/v5/planmall$subdocument
+www.daum.net##.box_shopping
+www.daum.net##.\?c_id\=ammonia_253582.\@1.\#rightmiddle.\#promotion.link_bnr > .frame_g
+||shop1.daumcdn.net/shophow/c/image/content/set/ad17480/20200327104249439_407375$image
+www.daum.net##.\?c_id\=ammonia_253582.\@1.\#rightmiddle.\#promotion.link_bnr
+
+! 2020. 3. 31. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor02/200330/97562915855447901.jpg$image
+www.etoland.co.kr##[href^="http://www.one-keeper.co.kr/cp/etoland"]
+www.etoland.co.kr###mw_basic > div:nth-of-type(1)
+www.etoland.co.kr###mw_basic > table:nth-of-type(2) > tbody > tr:nth-of-type(2) > td
+www.etoland.co.kr##form:nth-of-type(1) > table > tbody > tr:nth-of-type(3) > td
+
+! 2020. 4. 1. https://www.nate.com
+www.nate.com###mall1Box
+www.nate.com###shopitemMall
+www.nate.com###shopping
+www.nate.com##.area_shopping_today
+
+! 2020. 4. 1. http://etoland.co.kr
+etoland.co.kr##.right > div:nth-of-type(4)
+etoland.co.kr##[href^="/bbs/board.php"]
+etoland.co.kr##.right > div:nth-of-type(6)
+etoland.co.kr##tr:nth-of-type(8)
+etoland.co.kr##.reft_hit_banner > div:nth-of-type(1)
+
+! 2020. 4. 7. https://jmvbt.com
+||jmvbt.com/img/91/91porn_1280_100_2.gif$image
+||jmvbt.com/img/hgame/cq_600x430.jpg$image
+jmvbt.com###Preview_vedio_area
+jmvbt.com##center:nth-of-type(2) > p
+
+! 2020. 4. 8. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200403/41547015858894061.jpg$image
+||www.etoland.co.kr/data/daumeditor02/200323/85924715849434870.jpg$image
+||www.etoland.co.kr/data/daumeditor02/200325/28221215851285150.png$image
+www.etoland.co.kr##.slide-wrap
+www.etoland.co.kr##.bx-viewport
+www.etoland.co.kr###main_bn
+www.etoland.co.kr##.cnt_layout
+
+! 2020. 4. 13. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200406/68155515861516980.jpg$image
+||www.etoland.co.kr/data/file0207/etomall/237248292_D4xfA2Kt_KakaoTalk_20200413_144837762.jpg$image
+
+! 2020. 4. 15. http://www.etoland.co.kr
+||www.etoland.co.kr/data/file0207/etomall/237248292_MNAFLxWl_B7CEC5B6_B8B6C4CFBFECC3F8_B9E8B3CA.jpg$image
+
+! 2020. 4. 16. http://www.etoland.co.kr
+www.etoland.co.kr##tr:nth-of-type(10) > .mw_basic_view_latest.mw_basic_view_content
+
+! 2020. 4. 18. http://www.etoland.co.kr
+||www.etoland.co.kr//data/daumeditor02/200323/21823515849468581.png$image
+
+! 2020. 4. 21. https://jmvbt.com
+jmvbt.com##p
+
+! 2020. 4. 25. http://www.etoland.co.kr
+||www.etoland.co.kr/data/file0207/etomall/237248292_jLdioTwN_B7CEC5B6BFECC3F8B9E8B3CA.jpg$image
+
+! 2020. 4. 28. https://www.naver.com
+||castbox.shopping.naver.com/sb/main.nhn$subdocument
+
+! 2020. 4. 30. http://www.etoland.co.kr
+||www.etoland.co.kr//data/daumeditor02/200323/21823515849468580.png$image
+
+! 2020. 5. 5. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200406/68155515861516980.jpg$image
+www.etoland.co.kr##.right_aside_img
+
+||etoland.co.kr##.ad_list
+
+! 2020. 5. 17. http://www.etoland.co.kr
+www.etoland.co.kr##.mw_basic_view_latest.mw_basic_view_content > table > tbody > tr > td
+www.etoland.co.kr##tr:nth-of-type(9) > .mw_basic_view_latest.mw_basic_view_content
+
+! 2020. 5. 19. http://www.etoland.co.kr
+||tab2.clickmon.co.kr/pop/wp_ad_200.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1045209%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL$subdocument
+||tab2.clickmon.co.kr/pop/wp_ad_200.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1045209%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL$subdocument
+||www.etoland.co.kr/data/daumeditor02/200330/97562915855447901.jpg$image
+||tab2.clickmon.co.kr/pop/wp_ad_200.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1045209%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL$subdocument
+||tab2.clickmon.co.kr/pop/wp_ad_728.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1045209%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL$subdocument
+www.etoland.co.kr###mw_basic > table:nth-of-type(2) > tbody > tr:nth-of-type(2) > td
+||tab2.clickmon.co.kr/pop/wp_ad_200.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1045209%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL$subdocument
+||tab2.clickmon.co.kr/pop/wp_ad_200.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1045209%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL$subdocument
+||tab2.clickmon.co.kr/pop/wp_ad_200.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1045209%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL$subdocument
+||tab2.clickmon.co.kr/pop/wp_ad_160.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1045209%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL$subdocument
+www.etoland.co.kr##.right_aside_img
+www.etoland.co.kr##.ad_list
+||tab2.clickmon.co.kr/pop/wp_ad_200.php?PopAd=CM_M_1003067%7C%5E%7CCM_A_1045209%7C%5E%7CAdver_M_1046207&mon_rf=REFERRER_URL$subdocument
+||www.etoland.co.kr/data/daumeditor02/200330/97562915855447901.jpg$image
+||www.etoland.co.kr/data/daumeditor10/200406/68155515861516980.jpg$image
+||www.etoland.co.kr/data/daumeditor10/200406/68155515861516980.jpg$image
+||www.etoland.co.kr/data/daumeditor10/200406/68155515861516980.jpg$image
+
+! 2020. 5. 25. http://www.etoland.co.kr
+||www.etoland.co.kr/data/file0207/test1/237248292_1Bq23bhg_KakaoTalk_20200522_130435281_01.jpg$image
+||www.etoland.co.kr/data/file0207/test1/237248292_rkUs7qg0_KakaoTalk_20200522_130435281.jpg$image
+www.etoland.co.kr##.fortune_aside1
+www.etoland.co.kr##.fortune_aside2
+
+! 2020. 6. 27. https://manamoa49.net
+||manamoa49.net/img/banner/ma/long.gif$image
+
+! 2020. 7. 4. https://www.facebook.com
+www.facebook.com###u_2j_0 > ._6i_i
+www.facebook.com###u_jsonp_9_18 > .userContentWrapper._5pcr > ._q7o._1w_m._1dwg
+www.facebook.com###u_jsonp_9_1g > ._4299 > div:nth-of-type(2)
+
+! 2020. 7. 20. http://www.etoland.co.kr
+||www.etoland.co.kr/data/file0207/etomall/237248304_oq1BZrzd_0715_C0CCC5E4B7A3B5E5B9E8B3CA228250-80029.jpg$image
+www.etoland.co.kr##[src="http://www.etoland.co.kr/data/daumeditor10/200625/12257815930707100.png"]
+||www.etoland.co.kr/data/daumeditor10/200625/42392915930706040.png$image
+||www.etoland.co.kr/data/daumeditor10/200717/86852115949536460.png$image
+||www.etoland.co.kr/data/daumeditor10/200717/86852115949536471.png$image
+
+! 2020. 7. 21. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200717/66494415949630950.png$image
+||www.etoland.co.kr/data/daumeditor10/200617/53320315923749691.png$image
+||www.etoland.co.kr/data/daumeditor10/200617/53320315923749690.png$image
+||www.etoland.co.kr/data/file0207/etomall/237248304_nOVhtpwX_KakaoTalk_20200721_134137473.jpg$image
+||www.etoland.co.kr/data/daumeditor10/200619/*$image
+||www.etoland.co.kr/data/daumeditor10/200623/87109315928859922.png$image
+||www.etoland.co.kr/data/daumeditor10/200623/87109315928859911.png$image
+
+! 2020. 7. 22. http://www.etoland.co.kr
+||www.etoland.co.kr/data/file0207/etomall/*$image
+
+! 2020. 7. 27. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200710/59962115943602361.png$image
+||www.etoland.co.kr/data/daumeditor10/200710/59962115943602360.png$image
+
+! 2020. 7. 27. https://torrentmax.xyz
+||torrentmax.xyz/seda.gif?v=3$image
+||torrentmax.xyz/bada.gif?v=4$image
+||torrentmax.xyz/seda-m.gif?v=3$image
+torrentmax.xyz##.container-top-content
+
+! 2020. 7. 30. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200731/40711715961600260.jpg$image
+||www.etoland.co.kr/data/daumeditor10/200731/16944515961600310.jpg$image
+
+! 2020. 8. 1. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200731/45013615961714560.jpg$image
+||www.etoland.co.kr/data/daumeditor10/200731/27155515961714500.jpg$image
+||etoland.co.kr/data/daumeditor10/200731/24798015961879460.jpg$image
+||etoland.co.kr/data/daumeditor10/200731/63133515961879740.jpg$image
+||etoland.co.kr/data/daumeditor10/200731/24798015961879460.jpg$image
+||etoland.co.kr/data/daumeditor10/200731/63133515961879740.jpg$image
+
+! 2020. 8. 3. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200803/86379915964353420.jpg$image
+
+! 2020. 8. 5. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200731/64934815961769530.jpg$image
+
+! 2020. 8. 7. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200806/51089415967023920.png$image
+||www.etoland.co.kr/data/daumeditor10/200806/51089415967023931.png$image
+
+! 2020. 8. 9. http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200804/42144815965238451.png$image
+||www.etoland.co.kr/data/daumeditor10/200804/42144815965238440.png$image
+
+! 2020-08-18 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200813/66330315973082540.png$image
+||www.etoland.co.kr/data/daumeditor10/200813/66330315973082551.png$image
+
+! 2020-08-31 https://marumaru.sale
+||i.imgur.com/Ki17Ydp.gif$image
+marumaru.sale##.w_banner.row
+
+! 2020-09-01 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/200826/16677415984254380.png$image
+||www.etoland.co.kr/data/daumeditor10/200828/16178915985965440.png$image
+||www.etoland.co.kr/data/daumeditor10/200828/64105515985828270.png$image
+
+! 2020-09-03 https://marumaru.tel
+||i.imgur.com/DOvSLX2.gif$image
+||i.imgur.com/Y0r7eAn.gif$image
+||i.imgur.com/jxNnsAx.gif$image
+||i.imgur.com/Y0r7eAn.gif$image
+marumaru.tel##.w_banner.row
+
+! 2020. 9. 19. 오전 12:25:11 https://www.naver.com/
+||castbox.shopping.naver.com/shoppingbox/main.nhn
+
+! 2020. 9. 19. 오전 12:26:23 http://www.etoland.co.kr/
+||www.etoland.co.kr/data/daumeditor10/200916/69782116002375111.png
+
+! 2020. 9. 19. 오전 12:27:43 http://www.etoland.co.kr/
+||www.etoland.co.kr/data/daumeditor10/200701/58878215935817470.png
+
+! 2020. 9. 19. 오전 12:27:47 http://www.etoland.co.kr/
+www.etoland.co.kr###container > .right > div:nth-of-type(4)
+
+! 2020. 9. 19. 오전 12:27:52 http://www.etoland.co.kr/
+||www.etoland.co.kr/data/daumeditor10/200916/69782116002375111.png
+
+! 2020. 9. 19. 오전 12:38:26 https://www.naver.com/
+||castbox.shopping.naver.com/shoppingbox/main.nhn
+
+! 2020. 9. 19. 오후 2:36:48 http://www.etoland.co.kr/
+||www.etoland.co.kr/data/daumeditor10/200916/69782116002375114.png$image
+
+! 2020. 9. 19. 오후 2:36:56 http://www.etoland.co.kr/
+||www.etoland.co.kr/data/daumeditor10/200916/69782116002375115.png$image
+
+! 2020-09-25 https://marumaru.tube
+||i.imgur.com/XDy7fW4.gif$image
+marumaru.tube##.w_banner.row
+
+! 2020-10-01 https://www.naver.com
+||castbox.shopping.naver.com/shoppingboxnew/main.nhn$subdocument
+
+! 2020-10-19 https://marumaru.party
+||i.imgur.com/2qgKX9S.gif$image
+||i.imgur.com/VuwDiXW.gif$image
+marumaru.party##.w_banner.row
+
+! 2020-11-02 https://marumaru.surf
+||i.imgur.com/OwedAje.gif$image
+||i.imgur.com/vo4N20U.gif$image
+||i.imgur.com/OwedAje.gif$image
+||i.imgur.com/vo4N20U.gif$image
+||i.imgur.com/vo4N20U.gif$image
+||i.imgur.com/OwedAje.gif$image
+
+! 2020-11-25 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201124/33296316061909950.png$image
+||www.etoland.co.kr/data/daumeditor10/201123/21638416061183641.png$image
+||www.etoland.co.kr/data/daumeditor10/201123/21638416061183641.png$image
+||www.etoland.co.kr/data/daumeditor10/201123/21638416061183641.png$image
+||www.etoland.co.kr/data/daumeditor10/201119/24783016057537111.png$image
+
+! 2020-11-25 https://marumaru.cash
+||i.imgur.com/wCc4f2K.gif$image
+marumaru.cash##.w_banner.row
+
+! 2020-11-26 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201125/30048716062870300.png$image
+||www.etoland.co.kr/data/daumeditor10/201125/30048716062870300.png$image
+
+! 2020-11-26 https://marumaru.loan
+marumaru.loan##.w_banner.row
+
+! 2020-11-30 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201130/70083016067247100.png$image
+
+! 2020-12-01 http://www.etoland.co.kr
+www.etoland.co.kr##.advice_list > ul
+www.etoland.co.kr###advice1 > ul
+www.etoland.co.kr##.advice_list > .active
+www.etoland.co.kr##.store_head
+www.etoland.co.kr##.event_list
+
+! 2020-12-04 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201203/67386816069738380.png$image
+||www.etoland.co.kr/data/daumeditor10/201203/55949516069725180.jpg$image
+||www.etoland.co.kr/data/daumeditor10/201203/55949516069725180.jpg$image
+||www.etoland.co.kr/data/daumeditor10/201203/55949516069725180.jpg$image
+||www.etoland.co.kr/data/daumeditor10/201203/55949516069725180.jpg$image
+||www.etoland.co.kr/data/daumeditor10/201203/55949516069725180.jpg$image
+
+! 2020-12-07 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201207/16847616073271330.png$image
+
+! 2020-12-09 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201209/51803416074932240.png$image
+
+! 2020-12-10 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201201/thumbnail3/76825916067910593.png$image
+||www.etoland.co.kr/data/daumeditor10/201110/87220216049728470.png$image
+||www.etoland.co.kr/data/daumeditor10/201201/thumbnail3/76825916067910593.png$image
+||www.etoland.co.kr/data/daumeditor10/201110/87220216049728470.png$image
+
+! 2020-12-11 https://marumaru.dance
+marumaru.dance##.w_banner.row
+
+! 2020-12-14 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201214/59109316079321990.png$image
+||www.etoland.co.kr/data/daumeditor10/201214/85680916079321720.png$image
+||www.etoland.co.kr/data/daumeditor10/201214/23864316079401220.png$image
+
+! 2020-12-15 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201215/51605316079981700.png$image
+||www.etoland.co.kr/data/daumeditor10/201215/51605316079981700.png$image
+||www.etoland.co.kr/data/daumeditor10/201215/51605316079981700.png$image
+||www.etoland.co.kr/data/daumeditor10/201215/51605316079981700.png$image
+
+! 2020-12-16 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201215/46861816079986010.png$image
+||www.etoland.co.kr/data/daumeditor10/201215/46861816079986010.png$image
+||www.etoland.co.kr/data/daumeditor10/201215/46861816079986010.png$image
+||www.etoland.co.kr/data/daumeditor10/201215/46861816079986010.png$image
+
+! 2020-12-21 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201218/69805816082707170.png$image
+||www.etoland.co.kr/data/daumeditor10/201218/99610216082712000.png$image
+||www.etoland.co.kr/data/daumeditor10/201218/69805816082707170.png$image
+||www.etoland.co.kr/data/daumeditor10/201218/99610216082712000.png$image
+||www.etoland.co.kr/data/daumeditor10/201218/69805816082707170.png$image
+
+! 2020-12-22 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201218/97313616082781701.png$image
+||www.etoland.co.kr/data/daumeditor10/201218/97313616082781701.png$image
+||www.etoland.co.kr/data/daumeditor10/201222/20209916086167454.png$image
+||www.etoland.co.kr/data/daumeditor10/201222/20209916086167454.png$image
+
+! 2020-12-23 http://www.etoland.co.kr
+||www.etoland.co.kr/data/daumeditor10/201222/20209916086167452.png$image
+||www.etoland.co.kr/data/daumeditor10/201222/20209916086167452.png$image
+||www.etoland.co.kr/data/daumeditor10/201222/20209916086167452.png$image
+||www.etoland.co.kr/data/daumeditor10/201222/20209916086167452.png$image
+
+! 2020-12-23 https://www.jjangto.com
+||i.imgur.com/afk44p7.gif$image
+||i.imgur.com/sA1u6yC.jpg$image
+www.jjangto.com###container > div
+||i.imgur.com/qhzTIwu.jpg$image
+||i.imgur.com/21tbBiN.jpg$image
+||i.imgur.com/AHugvR2.gif$image
+||i.imgur.com/Ytiv9uq.gif$image
+||i.imgur.com/dpKwBqO.gif$image
+||i.imgur.com/dpKwBqO.gif$image
+||www.jjangto.com/img/jjangto.gif$image
+||i.imgur.com/yG082Jw.gif$image
+||i.imgur.com/yG082Jw.gif$image
+www.jjangto.com##[src="https://i.imgur.com/yG082Jw.gif"]
+||www.jjangto.com/img/jjangto.gif$image
+www.jjangto.com##[src="/img/jjangto.gif"]
+
+! 2020-12-24 http://www.etoland.co.kr
+www.etoland.co.kr##.store_banner
+
+! 2021-01-01 https://torrentmax13.com
+torrentmax13.com##.container-line-main-m
+
+! 2021-01-02 https://marumaru.beer
+marumaru.beer##.w_banner.row
+
+
+! 2021-01-13 https://marumaru.ltd
+marumaru.ltd##.w_banner.row
+
+! 2021-01-21 https://marumaru.chat
+marumaru.chat##.w_banner.row
+
+! 2021-01-25 https://marumaru.team
+||i.imgur.com/TDbslh8.gif$image
+||i.imgur.com/UNkIKgY.gif$image
+||i.imgur.com/mRYyhcb.gif$image
+||i.imgur.com/mRYyhcb.gif$image
+||i.imgur.com/yW1DOo2.gif$image
+||i.imgur.com/cxD13HD.gif$image
+||i.imgur.com/8JPPQw1.gif$image
+||i.imgur.com/8JPPQw1.gif$image
+marumaru.team##.w_banner.row
+
+! 2021-02-04 https://marumaru.mom
+marumaru.mom##.w_banner.row
+
+! 2021-02-11 https://marumaru.haus
+marumaru.haus##.w_banner.row
+
+! 2021-02-13 https://torrentmax15.com
+||torrentmax15.com/seda.gif?v=3$image
+||torrentmax15.com/wait.png$image
+torrentmax15.com##.container-top-content
+
+! 2021-02-24 https://marumaru.fund
+marumaru.fund##.w_banner.row
+
+! 2021-03-01 https://marumaru.cam
+marumaru.cam##.w_banner.row
+
+! 2021-03-04 https://marumaru.bike
+marumaru.bike##.w_banner.row
+
+! 2021-03-12 https://marumaru.tours
+marumaru.tours##.w_banner.row
+
+! 2021-03-15 https://www.instagram.com
+www.instagram.com##._1ssW0
+
+! 2021-03-17 https://www.instagram.com
+www.instagram.com##.GZkEI.ccgHY._6E_wP.vboSt._8Rm4L
+
+! 2021-03-18 https://marumaru.cloud
+marumaru.cloud##.w_banner.row
